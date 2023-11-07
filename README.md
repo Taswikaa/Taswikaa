@@ -32,9 +32,13 @@
 </details>
 
 <details> 
-  <summary>Мой проекты</summary>
+  <summary>Мои проекты</summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taswikaa&repo=flowers-base)](https://github.com/Taswikaa/flowers-base)
+  <br />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taswikaa&repo=notes)](https://github.com/Taswikaa/notes)
+  <br />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taswikaa&repo=books)](https://github.com/Taswikaa/books)
     
 </details>
 
