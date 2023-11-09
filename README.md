@@ -42,6 +42,14 @@
     
 </details>
 
+<details> 
+  <summary>Мои контакты</summary>
+  <br>
+  <p>tg: @Dalfiett</p>
+  <p>email: alekseev.s.v1@yandex.ru</p>
+    
+</details>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taswikaa&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taswikaa&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taswikaa&theme=solarized_dark)
